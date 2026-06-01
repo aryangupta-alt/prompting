@@ -1,0 +1,35 @@
+You are a senior customer support analyst.
+
+Your job is to classify support tickets into exactly one category:
+
+Refund
+Shipping
+Login
+Payment
+Account
+Product Quality
+Order Change
+Other
+
+Return only the category.
+
+Ticket 1: Return window elapsed but item is defective Hi, I bought the wireless headphones last month as a birthday gift, but my son just opened them today and the left earbud doesn't work at all. I know it’s 5 days past the 30-day return policy, but can I please get a refund or replacement? Thanks. Ticket 2:Double charged for subscription I noticed two identical charges of $14.99 on my bank statement for this month’s premium plan. I only have one account. Please refund the duplicate charge immediately. Ticket 3:Refund status update I sent back my return package two weeks ago and tracking shows it was delivered to your warehouse on Tuesday. When will I see the money back on my credit card? It’s a lot of money. Ticket 4:Accidental renewal refund My annual subscription auto-renewed today without warning. I haven't used the software in 3 months and forgot to cancel. Can you please cancel it now and refund the annual fee? Ticket 5:Package marked as delivered but not received Tracking says my package was left on the front porch at 3 PM today, but I’ve been home all day and nothing is here. I checked with my neighbors too. Please look into this. Ticket 6:Stuck in transit My order (Order #88391) has been stuck at the 'In Transit' stage in Chicago for the last 6 days. It was supposed to arrive by Friday. Is it lost? Ticket 7:International customs fees DHL is asking me to pay an extra $45 in customs duties to release my package. Your website said shipping was free worldwide. I am not paying this unless you reimburse me. Ticket 8:Wrong address entered by mistake Emergency! I just placed an order 5 minutes ago but realized my old apartment address was saved as default. Can you please change the shipping address to 742 Evergreen Terrace before it ships out?
+Ticket 9: 2FA code not arriving I am trying to log into my account but the 2-factor authentication SMS code is not sending to my phone. I've tried 4 times. I am completely locked out of my dashboard. Ticket 10: Password reset link expired/not working Every time I click the 'Forgot Password' link in my email, the page says 'Token Expired' even if I click it instantly. Please send me a temporary password manually. Ticket 11: Suspicious activity lockout Got an email saying my account was locked due to multiple failed login attempts from an unknown IP address. It wasn't me. How do I verify my identity and get back in safely? Ticket 12:Error code: ERR_DECLINED_403 I am trying to check out with my Visa card but keep getting error code 403. My bank says the card is active and has plenty of funds. Your checkout system seems broken.
+Ticket 13:Request for VAT invoice Hello, our accounting department needs a formal PDF invoice showing your VAT ID and our company details for tax purposes for order #99201. Please send it over.
+Ticket 14:Update billing details failing I'm trying to change my expired credit card on the billing page, but clicking the 'Save Changes' button does absolutely nothing. No error message, it just freezes. Tried on Chrome and Safari.
+Ticket 15: Crypto payment confirmation delay Paid via BitPay over 4 hours ago. The blockchain shows 12 confirmations but my account still says 'Pending Payment'. Please activate my credits.
+Ticket 16:Delete my data (GDPR request) I would like to permanently close my account and have all my personal data erased from your servers in accordance with GDPR regulations. Confirm once done.
+Ticket 17:Merge two accounts I accidentally created a second account using my work email instead of my personal one. Can you merge the order history and rewards points from john.d@work.com to john.d@gmail.com?
+Ticket 18:Change account owner The employee who originally set up our corporate account has left the company. We need to transfer the primary ownership and admin rights to administrative@techcorp.com.
+Ticket 19:App crashes on launch after update Ever since downloading version 4.2.1 this morning on iOS, the app crashes instantly upon opening. I've already tried reinstalling. Please fix, I use this daily for work.
+Ticket 20:Item arrived damaged Opened my package today and the ceramic vase is shattered into pieces. The box was severely dented during transit. I have attached photos of the damage. Please send a replacement.
+Ticket 21:Missing parts in assembly box Just sat down to assemble the desk I ordered, but Pack B of the screws and the Allen wrench are completely missing from the box. Can you expedite shipping on the missing parts?
+Ticket 22:Quality doesn't match description The leather jacket I received feels like cheap plastic and smells strongly of chemicals. The website listed it as 100% genuine top-grain leather. Very disappointed with this quality.
+Ticket 23:Cancel order before fulfillment I placed order #100293 about 20 minutes ago but realized I bought the wrong size. I don't see a cancel button on my dashboard. Please cancel this before it ships so I can reorder.
+Ticket 24:Remove item from bulk order Hello, I need to remove the blue sweater from my order #77312. Keep the jeans and the shoes. Please adjust the final total and bill my card for the new amount.
+Ticket 25:Upgrade to expedited shipping I chose standard shipping for my order yesterday, but I urgently need it by Friday for an event. Can I pay the extra fee to upgrade to overnight/expedited shipping?
+Ticket 26:Bulk corporate discount inquiry Hi, I am looking to purchase roughly 150 units of your custom water bottles for an upcoming corporate event. Do you offer bulk pricing or volume discounts for orders of this size?
+Ticket 27:Influencer partnership request Hey team! I love your brand and have a dedicated audience of 50k followers on Instagram in the fitness niche. I'd love to discuss a potential sponsorship or PR product review. Who can I contact?
+Ticket 28:Website typo / broken link Just wanted to let your webmaster know that the link to your privacy policy in the footer of the homepage returns a 404 error page. Thought you might want to fix that!
+Ticket 29:Restock notification request The ergonomic office chair in grey has been out of stock for weeks. Do you have an estimated date for when it will be back on the site? I want to buy one as soon as it's available.
+Ticket 30:Phishing email warning I received a weird email claiming to be from your security team asking me to verify my credit card details. The sender email looked sketchy (support@yourbrand-security-update.net). Just wanted to flag this potential scam targeting your users.
