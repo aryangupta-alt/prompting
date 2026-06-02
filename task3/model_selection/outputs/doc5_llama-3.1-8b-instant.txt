@@ -1,0 +1,5 @@
+Here are 3 bullet points summarizing the document:
+
+* Cybersecurity involves protecting digital systems, networks, and data from potential threats such as phishing, malware, ransomware, and data breaches.
+* Organizations implement various security measures to reduce risk, including encryption, multi-factor authentication, and employee training.
+* As cyber threats continue to evolve, maintaining a strong cybersecurity posture remains a critical business priority for organizations.

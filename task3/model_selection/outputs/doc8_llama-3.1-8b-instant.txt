@@ -1,0 +1,5 @@
+Here are 3 bullet points summarizing the document:
+
+• Blockchain records transactions securely and transparently by storing them in a distributed digital ledger.
+• The technology supports not only cryptocurrencies but also has real-world applications in supply chain management, healthcare, and finance.
+• Benefits of blockchain include high levels of transparency and security, although scalability remains a major challenge.

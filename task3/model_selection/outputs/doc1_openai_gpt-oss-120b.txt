@@ -1,0 +1,3 @@
+- AI is a computer science field that builds systems to perform human-like tasks such as learning, reasoning, problem‑solving, language understanding, and decision‑making.  
+- It is applied across many sectors—including healthcare, finance, education, and transportation—with recent machine‑learning and deep‑learning advances markedly boosting its capabilities.  
+- Ongoing concerns focus on data privacy, potential job displacement, and the ethical deployment of AI technologies.

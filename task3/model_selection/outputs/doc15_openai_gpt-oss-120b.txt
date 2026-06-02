@@ -1,0 +1,3 @@
+- 5G is the latest (fifth) generation of wireless communication, offering significantly faster data speeds and lower latency.  
+- It enhances network capacity, enabling more devices to connect simultaneously and reliably.  
+- These improvements support advanced applications such as autonomous vehicles, smart city infrastructure, and sophisticated IoT systems.

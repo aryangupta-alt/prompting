@@ -1,0 +1,5 @@
+Bullet points:
+
+1. Machine learning is a branch of AI that focuses on enabling systems to learn from data without direct programming. It does so by identifying patterns and making predictions based on historical information.
+2. Key applications of machine learning include recommendation systems, fraud detection, and image recognition.
+3. Data quality strongly impacts the performance of machine learning models, highlighting its significance in the field. 

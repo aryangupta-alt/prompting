@@ -1,0 +1,5 @@
+Here are 3 bullet points summarizing the document:
+
+* Supply chain management involves coordinating the movement of goods, information, and finances from suppliers to customers.
+* Efficient supply chains can reduce costs and improve customer satisfaction.
+* Technology, such as ERP systems and real-time tracking, helps organizations optimize operations and respond quickly to disruptions.

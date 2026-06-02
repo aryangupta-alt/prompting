@@ -1,0 +1,3 @@
+- Cybersecurity protects systems, networks, and data from digital attacks such as phishing, malware, ransomware, and data breaches.  
+- Key defensive measures include encryption, multi‑factor authentication, and regular employee training.  
+- As threats continually evolve, maintaining robust cybersecurity remains a critical priority for organizations.

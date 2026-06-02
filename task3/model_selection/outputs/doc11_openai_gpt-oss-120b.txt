@@ -1,0 +1,3 @@
+- The Internet of Things (IoT) links physical devices to the internet, allowing them to gather and share data.  
+- Common IoT applications include smart homes, wearables, and industrial sensors, enhancing automation and operational efficiency.  
+- Widespread adoption brings challenges in security, privacy, and the management of numerous connected devices.

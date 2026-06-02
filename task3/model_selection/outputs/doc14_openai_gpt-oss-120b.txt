@@ -1,0 +1,3 @@
+- Machine learning lets systems learn from data autonomously, using algorithms to find patterns and make predictions.  
+- Key applications include recommendation engines, fraud detection, and image recognition.  
+- The quality of input data critically impacts the performance of machine‑learning models.

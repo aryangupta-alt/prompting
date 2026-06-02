@@ -1,0 +1,1 @@
+Machine learning is a subset of AI that enables systems to learn from data without being explicitly programmed. Algorithms identify patterns and make predictions based on historical information. Applications include recommendation systems, fraud detection, and image recognition. Data quality plays a major role in model performance.

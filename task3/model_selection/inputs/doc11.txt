@@ -1,0 +1,1 @@
+The Internet of Things (IoT) connects physical devices to the internet, enabling them to collect and exchange data. Examples include smart homes, wearable devices, and industrial sensors. IoT improves automation and efficiency but introduces challenges related to security, privacy, and device management.

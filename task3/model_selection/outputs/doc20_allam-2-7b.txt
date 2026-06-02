@@ -1,0 +1,5 @@
+Bullet points:
+
+1. Smart cities employ technology and data to advance urban infrastructure and public services.
+2. Applications of smart cities comprise intelligent traffic systems, energy management, and waste collection.
+3. The primary objectives of smart city initiatives are increased sustainability, efficiency, and the overall quality of life for residents. 

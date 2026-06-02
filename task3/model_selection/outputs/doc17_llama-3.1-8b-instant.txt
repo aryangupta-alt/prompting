@@ -1,0 +1,5 @@
+Here are 3 bullet points summarizing the document:
+
+• Healthcare technology includes various digital tools such as electronic medical records, telemedicine, and wearable devices.
+• These technologies have multiple benefits, including improved patient care, increased efficiency, and enhanced medical research capabilities.
+• Despite their advantages, data security and regulatory compliance remain crucial concerns for the implementation of healthcare technology.

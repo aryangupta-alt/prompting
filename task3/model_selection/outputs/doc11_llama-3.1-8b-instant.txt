@@ -1,0 +1,5 @@
+Here are 3 bullet points summarizing the document:
+
+* The Internet of Things (IoT) connects physical devices to the internet, allowing them to collect and exchange data.
+* IoT has various applications, such as smart homes, wearable devices, and industrial sensors, that enhance automation and efficiency.
+* While IoT offers benefits, it also presents challenges related to security, privacy, and device management.

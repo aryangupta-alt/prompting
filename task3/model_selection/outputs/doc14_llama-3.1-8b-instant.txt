@@ -1,0 +1,5 @@
+Here are 3 bullet points summarizing the document:
+
+• Machine learning is a subset of AI that allows systems to learn from data without explicit programming.
+• Algorithms in machine learning identify patterns and make predictions based on historical information.
+• Effective data quality is critical for the successful performance of machine learning models.

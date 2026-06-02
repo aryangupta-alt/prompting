@@ -1,0 +1,5 @@
+Here are 3 bullet points summarizing the document:
+
+* Blockchain is a distributed digital ledger technology that records transactions securely and transparently, storing them in chronologically linked blocks.
+* While widely known for supporting cryptocurrencies, blockchain also has applications in supply chain management, healthcare, and finance.
+* The technology offers benefits such as transparency and security, but faces a challenge in terms of scalability.

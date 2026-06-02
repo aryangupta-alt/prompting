@@ -1,0 +1,5 @@
+Here are three bullet points summarizing the document:
+
+* Cybersecurity involves protecting systems, networks, and data from digital attacks such as phishing, malware, and ransomware.
+* Common cybersecurity threats include data breaches and other types of cyber attacks that can compromise sensitive information.
+* To mitigate these risks, organizations implement security measures such as encryption, multi-factor authentication, and employee training to prioritize cybersecurity.

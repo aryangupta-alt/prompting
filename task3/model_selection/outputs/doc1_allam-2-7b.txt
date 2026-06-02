@@ -1,0 +1,2 @@
+- Artificial Intelligence is a field studying systems for human-like tasks like learning, reasoning, problem-solving, language understanding, and decision-making.
+- Advancements in machine learning and deep learning have enhanced AI applications in sectors like healthcare, finance, education, and transportation, but raise issues around data privacy, job impacts, and ethical use. 

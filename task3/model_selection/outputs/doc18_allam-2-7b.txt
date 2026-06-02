@@ -1,0 +1,5 @@
+Bullet points:
+
+1. Financial technology (finttech) utilizes technology to modernize and improve traditional financial services.
+2. Common examples of fintech include mobile banking, digital payments, robo-advisors, and peer-to-peer lending platforms.
+3. While fintech enhances accessibility and convenience, it also introduces new regulatory and security concerns. 

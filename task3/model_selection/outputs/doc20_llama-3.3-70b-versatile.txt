@@ -1,0 +1,5 @@
+Here are 3 bullet points summarizing the document:
+
+* Smart cities utilize technology and data to improve urban infrastructure and public services, aiming to create a better living environment.
+* Applications of smart city technology include intelligent traffic systems, energy management, and waste collection, which help streamline city operations.
+* The overall goal of smart city initiatives is to enhance sustainability, efficiency, and quality of life for residents, making cities more livable and environmentally friendly.

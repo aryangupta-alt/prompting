@@ -1,0 +1,3 @@
+- Cloud computing provides on‑demand access to storage, servers, and software via the internet, reducing the need for costly on‑premise infrastructure.  
+- It enables scalable solutions for data backup, application hosting, and collaboration tools across businesses.  
+- Security and compliance are critical factors to address when adopting cloud technologies.

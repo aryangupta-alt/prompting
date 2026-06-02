@@ -1,0 +1,1 @@
+Cybersecurity involves protecting systems, networks, and data from digital attacks. Common threats include phishing, malware, ransomware, and data breaches. Organizations implement security measures such as encryption, multi-factor authentication, and employee training to reduce risk. As cyber threats evolve, cybersecurity remains a critical business priority.

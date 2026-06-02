@@ -1,0 +1,4 @@
+Bullet points:
+1. Cloud computing provides access to computing resources (e.g., storage, servers, software) via internet, replacing the need for costly on-premise infrastructure.
+2. Businesses utilize cloud services for various purposes such as data backup, application hosting, and collaboration tools.
+3. Security and compliance are vital aspects to consider while embracing cloud technology solutions. 

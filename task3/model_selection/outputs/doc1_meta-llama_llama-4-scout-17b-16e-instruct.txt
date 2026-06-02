@@ -1,0 +1,5 @@
+Here are 3 bullet points summarizing the document:
+
+* Artificial Intelligence (AI) is a branch of computer science that creates systems capable of performing tasks that normally require human intelligence, such as learning, reasoning, and decision-making.
+* AI has a wide range of applications across various industries, including healthcare, finance, education, and transportation, and its capabilities have been significantly improved by recent advances in machine learning and deep learning.
+* Despite its benefits, AI also raises concerns regarding data privacy, job displacement, and the ethical use of AI systems.

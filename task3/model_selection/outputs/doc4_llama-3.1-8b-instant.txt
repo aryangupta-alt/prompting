@@ -1,0 +1,5 @@
+Here are three bullet points summarizing the document:
+
+• Cloud computing enables organizations to access computing resources like storage, servers, and software over the internet.
+• It reduces the need for expensive on-premise infrastructure, allowing for scalability and flexibility.
+• Cloud services can be used for various purposes, including data backup, application hosting, and collaboration tools.

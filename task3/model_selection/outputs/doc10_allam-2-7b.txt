@@ -1,0 +1,4 @@
+Bullet points:
+1. Data analytics is the process of collecting, processing, and interpreting data to aid in decision-making.
+2. Organizations use analytics to detect trends, optimize operations, and grasp customer behavior.
+3. Popular tools for data analysis include Power BI, Tableau, and Python, can provide substantial competitive advantages. 

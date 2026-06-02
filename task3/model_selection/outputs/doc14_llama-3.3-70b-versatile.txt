@@ -1,0 +1,5 @@
+Here are 3 bullet points summarizing the document:
+
+* Machine learning is a subset of AI that allows systems to learn from data without being explicitly programmed.
+* Machine learning algorithms identify patterns and make predictions based on historical information, and have various applications such as recommendation systems, fraud detection, and image recognition.
+* The quality of the data used in machine learning plays a crucial role in determining the performance of the model.

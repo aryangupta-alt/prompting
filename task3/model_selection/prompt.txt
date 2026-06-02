@@ -1,0 +1,4 @@
+Summarize the following document into exactly 3 bullet points.
+
+Document:
+{document}

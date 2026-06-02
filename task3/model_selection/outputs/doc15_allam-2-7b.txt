@@ -1,0 +1,5 @@
+Bullet points:
+
+1. 5G is the fifth generation of wireless communication technology.
+2. It offers faster data speeds, lower latency, and increased network capacity when compared to previous generations.
+3. 5G is suitable for supporting applications like autonomous vehicles, smart cities, and enhanced Internet of Things (IoT) systems. 

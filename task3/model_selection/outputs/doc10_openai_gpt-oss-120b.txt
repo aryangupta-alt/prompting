@@ -1,0 +1,3 @@
+- Data analytics consists of collecting, processing, and interpreting data to aid decision‑making.  
+- Organizations leverage analytics to spot trends, optimize operations, and gain insights into customer behavior, using tools like Power BI, Tableau, and Python.  
+- Effective analytics can deliver a strong competitive advantage.

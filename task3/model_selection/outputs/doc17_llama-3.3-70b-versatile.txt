@@ -1,0 +1,5 @@
+Here are 3 bullet points summarizing the document:
+
+* Healthcare technology encompasses various tools such as electronic medical records, telemedicine, wearable devices, and AI-powered diagnostics.
+* These technologies contribute to improved patient care, increased efficiency, and support for medical research, ultimately enhancing the healthcare system.
+* However, the implementation and use of these technologies must prioritize data security and regulatory compliance to ensure their benefits are realized while minimizing risks.

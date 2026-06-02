@@ -1,0 +1,3 @@
+- Fintech leverages technology to modernize financial services, encompassing mobile banking, digital payments, robo‑advisors, and peer‑to‑peer lending.  
+- It improves accessibility and convenience for users, making financial transactions faster and more user‑friendly.  
+- The rapid expansion of fintech introduces fresh regulatory and security challenges that must be addressed.

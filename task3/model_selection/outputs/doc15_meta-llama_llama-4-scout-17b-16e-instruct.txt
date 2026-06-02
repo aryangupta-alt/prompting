@@ -1,0 +1,5 @@
+Here are 3 bullet points summarizing the document:
+
+* 5G is the fifth generation of wireless communication technology.
+* It provides faster data speeds, lower latency, and improved network capacity compared to previous generations.
+* 5G supports advanced applications such as autonomous vehicles, smart cities, and IoT systems.

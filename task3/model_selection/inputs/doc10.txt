@@ -1,0 +1,1 @@
+Data analytics involves collecting, processing, and interpreting data to support decision-making. Organizations use analytics to identify trends, improve operations, and understand customer behavior. Tools such as Power BI, Tableau, and Python are commonly used for data analysis. Effective analytics can provide a significant competitive advantage.

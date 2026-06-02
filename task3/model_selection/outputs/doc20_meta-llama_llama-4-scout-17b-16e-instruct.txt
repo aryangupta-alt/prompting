@@ -1,0 +1,5 @@
+Here are three bullet points summarizing the document:
+
+* Smart cities leverage technology and data to enhance urban infrastructure and public services.
+* Applications of smart city initiatives include intelligent traffic systems, energy management, and waste collection.
+* The goals of smart city initiatives are to improve sustainability, efficiency, and quality of life for residents.
