@@ -1,0 +1,17 @@
+Analyze the insurance claim step by step.
+
+Think through:
+1. Policy rules
+2. Coverage conditions
+3. Claim details
+4. Approval decision
+
+Then provide your final answer.
+
+Return your final answer as:
+Yes
+or
+No
+
+Scenario:
+{scenario}
