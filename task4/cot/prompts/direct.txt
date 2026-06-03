@@ -1,9 +1,0 @@
-Answer the insurance claim decision.
-
-Rules:
-- Analyze the scenario.
-- Return only Yes or No.
-- Do not explain your answer.
-
-Scenario:
-{scenario}
