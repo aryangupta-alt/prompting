@@ -1,0 +1,19 @@
+Invoice Number: INV-1004
+
+Invoice Date: 2025-05-12
+
+Supplier Name: Smart Electronics Ltd
+
+Customer Name: Vision Retailers
+
+Billing Address:
+22 Linking Road
+Mumbai
+400050
+
+Items:
+Printer | Qty 1 | Unit Price 12000 | Total 12000
+
+Total Amount: 12000
+
+Status: PAID

@@ -1,4 +1,4 @@
-from groq import Groq
+from groq import Groq  # type: ignore[reportMissingImports]
 import os
 import time
 import csv

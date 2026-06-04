@@ -1,0 +1,21 @@
+Invoice Number: INV-1008
+
+Invoice Date: 2025-05-22
+
+Supplier Name: Cloud Services India
+
+Customer Name: DataWorks Pvt Ltd
+
+Billing Address:
+101 IT Park
+Hyderabad
+500081
+
+Items:
+Cloud Subscription | Qty 12 | Unit Price 2500 | Total 30000
+
+Total Amount: 30000
+
+Status: PAID
+
+Notes: Annual subscription plan

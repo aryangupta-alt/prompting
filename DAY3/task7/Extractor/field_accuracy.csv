@@ -1,0 +1,71 @@
+sample_id,field_name,extracted_value,ground_truth_value,exact_match
+invoice_1,invoice_number,INV-1001,INV-1001,True
+invoice_1,invoice_date,2025-05-01,2025-05-01,True
+invoice_1,supplier_name,ABC Technologies Pvt Ltd,ABC Technologies Pvt Ltd,True
+invoice_1,customer_name,XYZ Retail Pvt Ltd,XYZ Retail Pvt Ltd,True
+invoice_1,total_amount,5000.0,5000,True
+invoice_1,status,PAID,PAID,True
+invoice_1,notes,Delivered successfully,Delivered successfully,True
+invoice_2,invoice_number,INV-1002,INV-1002,True
+invoice_2,invoice_date,2025-05-05,2025-05-05,True
+invoice_2,supplier_name,Tech Supplies Ltd,Tech Supplies Ltd,True
+invoice_2,customer_name,Bright Solutions Pvt Ltd,Bright Solutions Pvt Ltd,True
+invoice_2,total_amount,18000.0,18000,True
+invoice_2,status,UNPAID,UNPAID,True
+invoice_2,notes,,,True
+invoice_3,invoice_number,INV-1003,INV-1003,True
+invoice_3,invoice_date,2025-05-10,2025-05-10,True
+invoice_3,supplier_name,Office Essentials Pvt Ltd,Office Essentials Pvt Ltd,True
+invoice_3,customer_name,NextGen Enterprises,NextGen Enterprises,True
+invoice_3,total_amount,19500.0,19500,True
+invoice_3,status,OVERDUE,OVERDUE,True
+invoice_3,notes,Payment delayed beyond due date,Payment delayed beyond due date,True
+invoice_4,invoice_number,INV-1004,INV-1004,True
+invoice_4,invoice_date,2025-05-12,2025-05-12,True
+invoice_4,supplier_name,Smart Electronics Ltd,Smart Electronics Ltd,True
+invoice_4,customer_name,Vision Retailers,Vision Retailers,True
+invoice_4,total_amount,12000.0,12000,True
+invoice_4,status,PAID,PAID,True
+invoice_4,notes,,,True
+invoice_5,invoice_number,INV-1005,INV-1005,True
+invoice_5,invoice_date,2025-05-15,2025-05-15,True
+invoice_5,supplier_name,Green Energy Solutions,Green Energy Solutions,True
+invoice_5,customer_name,EcoBuild Pvt Ltd,EcoBuild Pvt Ltd,True
+invoice_5,total_amount,100000.0,100000,True
+invoice_5,status,UNPAID,UNPAID,True
+invoice_5,notes,Installation scheduled next week,Installation scheduled next week,True
+invoice_6,invoice_number,INV-1006,INV-1006,True
+invoice_6,invoice_date,2025-05-18,2025-05-18,True
+invoice_6,supplier_name,Digital World Ltd,Digital World Ltd,True
+invoice_6,customer_name,FutureTech Solutions,FutureTech Solutions,True
+invoice_6,total_amount,224800.0,224800,True
+invoice_6,status,PAID,PAID,True
+invoice_6,notes,,,True
+invoice_7,invoice_number,INV-1007,INV-1007,True
+invoice_7,invoice_date,2025-05-20,2025-05-20,True
+invoice_7,supplier_name,Industrial Parts Co,Industrial Parts Co,True
+invoice_7,customer_name,Metro Manufacturing,Metro Manufacturing,True
+invoice_7,total_amount,23000.0,23000,True
+invoice_7,status,OVERDUE,OVERDUE,True
+invoice_7,notes,Awaiting finance department approval,Awaiting finance department approval,True
+invoice_8,invoice_number,INV-1008,INV-1008,True
+invoice_8,invoice_date,2025-05-22,2025-05-22,True
+invoice_8,supplier_name,Cloud Services India,Cloud Services India,True
+invoice_8,customer_name,DataWorks Pvt Ltd,DataWorks Pvt Ltd,True
+invoice_8,total_amount,30000.0,30000,True
+invoice_8,status,PAID,PAID,True
+invoice_8,notes,Annual subscription plan,Annual subscription plan,True
+invoice_9,invoice_number,INV-1009,INV-1009,True
+invoice_9,invoice_date,2025-05-25,2025-05-25,True
+invoice_9,supplier_name,Medical Equipment Ltd,Medical Equipment Ltd,True
+invoice_9,customer_name,City Care Hospital,City Care Hospital,True
+invoice_9,total_amount,115000.0,115000,True
+invoice_9,status,UNPAID,UNPAID,True
+invoice_9,notes,,,True
+invoice_10,invoice_number,INV-1010,INV-1010,True
+invoice_10,invoice_date,2025-05-28,2025-05-28,True
+invoice_10,supplier_name,Furniture Hub Pvt Ltd,Furniture Hub Pvt Ltd,True
+invoice_10,customer_name,Creative Spaces LLP,Creative Spaces LLP,True
+invoice_10,total_amount,61000.0,61000,True
+invoice_10,status,PAID,PAID,True
+invoice_10,notes,Delivered and assembled onsite,Delivered and assembled onsite,True

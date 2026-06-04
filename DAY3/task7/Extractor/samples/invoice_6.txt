@@ -1,0 +1,20 @@
+Invoice Number: INV-1006
+
+Invoice Date: 2025-05-18
+
+Supplier Name: Digital World Ltd
+
+Customer Name: FutureTech Solutions
+
+Billing Address:
+14 Cyber City
+Gurgaon
+122001
+
+Items:
+Laptop | Qty 4 | Unit Price 55000 | Total 220000
+Wireless Mouse | Qty 4 | Unit Price 1200 | Total 4800
+
+Total Amount: 224800
+
+Status: PAID

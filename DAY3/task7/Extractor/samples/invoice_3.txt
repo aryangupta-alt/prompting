@@ -1,0 +1,22 @@
+Invoice Number: INV-1003
+
+Invoice Date: 2025-05-10
+
+Supplier Name: Office Essentials Pvt Ltd
+
+Customer Name: NextGen Enterprises
+
+Billing Address:
+88 Business Avenue
+Bengaluru
+560001
+
+Items:
+Office Chair | Qty 3 | Unit Price 4500 | Total 13500
+Desk Lamp | Qty 5 | Unit Price 1200 | Total 6000
+
+Total Amount: 19500
+
+Status: OVERDUE
+
+Notes: Payment delayed beyond due date

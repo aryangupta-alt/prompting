@@ -1,0 +1,23 @@
+Invoice Number: INV-1007
+
+Invoice Date: 2025-05-20
+
+Supplier Name: Industrial Parts Co
+
+Customer Name: Metro Manufacturing
+
+Billing Address:
+77 Factory Road
+Chennai
+600001
+
+Items:
+Bearing Set | Qty 20 | Unit Price 300 | Total 6000
+Gear Assembly | Qty 5 | Unit Price 2500 | Total 12500
+Lubricant Pack | Qty 10 | Unit Price 450 | Total 4500
+
+Total Amount: 23000
+
+Status: OVERDUE
+
+Notes: Awaiting finance department approval

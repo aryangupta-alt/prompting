@@ -1,0 +1,22 @@
+Invoice Number: INV-1010
+
+Invoice Date: 2025-05-28
+
+Supplier Name: Furniture Hub Pvt Ltd
+
+Customer Name: Creative Spaces LLP
+
+Billing Address:
+55 Interior Lane
+Kolkata
+700001
+
+Items:
+Conference Table | Qty 1 | Unit Price 25000 | Total 25000
+Executive Chair | Qty 6 | Unit Price 6000 | Total 36000
+
+Total Amount: 61000
+
+Status: PAID
+
+Notes: Delivered and assembled onsite

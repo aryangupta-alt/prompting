@@ -1,0 +1,22 @@
+Invoice Number: INV-1005
+
+Invoice Date: 2025-05-15
+
+Supplier Name: Green Energy Solutions
+
+Customer Name: EcoBuild Pvt Ltd
+
+Billing Address:
+9 Green Park
+Delhi
+110016
+
+Items:
+Solar Panel | Qty 5 | Unit Price 18000 | Total 90000
+Mounting Kit | Qty 5 | Unit Price 2000 | Total 10000
+
+Total Amount: 100000
+
+Status: UNPAID
+
+Notes: Installation scheduled next week

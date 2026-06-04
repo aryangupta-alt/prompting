@@ -1,0 +1,9 @@
+J0hn Sm1th
+
+mail = john.smith@gmai.com
+
+phone : 98765O3210
+
+city=Mumbai
+
+pin=400001

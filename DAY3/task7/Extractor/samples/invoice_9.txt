@@ -1,0 +1,20 @@
+Invoice Number: INV-1009
+
+Invoice Date: 2025-05-25
+
+Supplier Name: Medical Equipment Ltd
+
+Customer Name: City Care Hospital
+
+Billing Address:
+66 Health Street
+Ahmedabad
+380001
+
+Items:
+Patient Monitor | Qty 2 | Unit Price 35000 | Total 70000
+ECG Machine | Qty 1 | Unit Price 45000 | Total 45000
+
+Total Amount: 115000
+
+Status: UNPAID

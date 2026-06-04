@@ -1,0 +1,162 @@
+[
+  {
+    "order_id": "ORD-1001",
+    "customer": "Aryan Gupta",
+    "product": "Wireless Mouse",
+    "category": "electronics",
+    "status": "delivered",
+    "shipping_status": "Delivered"
+  },
+  {
+    "order_id": "ORD-1002",
+    "customer": "Riya Sharma",
+    "product": "Laptop Stand",
+    "category": "electronics",
+    "status": "in_transit",
+    "shipping_status": "In Transit"
+  },
+  {
+    "order_id": "ORD-1003",
+    "customer": "Karan Patel",
+    "product": "Office Chair",
+    "category": "furniture",
+    "status": "returned",
+    "shipping_status": "Returned to Warehouse"
+  },
+  {
+    "order_id": "ORD-1004",
+    "customer": "Neha Verma",
+    "product": "Bluetooth Speaker",
+    "category": "electronics",
+    "status": "delivered",
+    "shipping_status": "Delivered"
+  },
+  {
+    "order_id": "ORD-1005",
+    "customer": "Rahul Mehta",
+    "product": "Gaming Keyboard",
+    "category": "electronics",
+    "status": "disputed",
+    "shipping_status": "Delivered"
+  },
+  {
+    "order_id": "ORD-1006",
+    "customer": "Priya Singh",
+    "product": "T-Shirt",
+    "category": "clothing",
+    "status": "delivered",
+    "shipping_status": "Delivered"
+  },
+  {
+    "order_id": "ORD-1007",
+    "customer": "Ankit Shah",
+    "product": "Jeans",
+    "category": "clothing",
+    "status": "returned",
+    "shipping_status": "Returned"
+  },
+  {
+    "order_id": "ORD-1008",
+    "customer": "Sneha Kapoor",
+    "product": "Bookshelf",
+    "category": "furniture",
+    "status": "in_transit",
+    "shipping_status": "Out for Delivery"
+  },
+  {
+    "order_id": "ORD-1009",
+    "customer": "Vikram Joshi",
+    "product": "Data Science Handbook",
+    "category": "books",
+    "status": "delivered",
+    "shipping_status": "Delivered"
+  },
+  {
+    "order_id": "ORD-1010",
+    "customer": "Pooja Nair",
+    "product": "Monitor",
+    "category": "electronics",
+    "status": "cancelled",
+    "shipping_status": "Cancelled"
+  },
+  {
+    "order_id": "ORD-1011",
+    "customer": "Rohit Kumar",
+    "product": "Study Table",
+    "category": "furniture",
+    "status": "delivered",
+    "shipping_status": "Delivered"
+  },
+  {
+    "order_id": "ORD-1012",
+    "customer": "Meera Iyer",
+    "product": "Novel Collection",
+    "category": "books",
+    "status": "in_transit",
+    "shipping_status": "In Transit"
+  },
+  {
+    "order_id": "ORD-1013",
+    "customer": "Aditya Rao",
+    "product": "Smart Watch",
+    "category": "electronics",
+    "status": "delivered",
+    "shipping_status": "Delivered"
+  },
+  {
+    "order_id": "ORD-1014",
+    "customer": "Nisha Jain",
+    "product": "Jacket",
+    "category": "clothing",
+    "status": "disputed",
+    "shipping_status": "Delivered"
+  },
+  {
+    "order_id": "ORD-1015",
+    "customer": "Aman Gupta",
+    "product": "Dining Table",
+    "category": "furniture",
+    "status": "returned",
+    "shipping_status": "Returned"
+  },
+  {
+    "order_id": "ORD-1016",
+    "customer": "Simran Kaur",
+    "product": "Python Programming",
+    "category": "books",
+    "status": "delivered",
+    "shipping_status": "Delivered"
+  },
+  {
+    "order_id": "ORD-1017",
+    "customer": "Harsh Patel",
+    "product": "Headphones",
+    "category": "electronics",
+    "status": "in_transit",
+    "shipping_status": "In Transit"
+  },
+  {
+    "order_id": "ORD-1018",
+    "customer": "Tanvi Desai",
+    "product": "Dress",
+    "category": "clothing",
+    "status": "delivered",
+    "shipping_status": "Delivered"
+  },
+  {
+    "order_id": "ORD-1019",
+    "customer": "Yash Malhotra",
+    "product": "Coffee Table",
+    "category": "furniture",
+    "status": "cancelled",
+    "shipping_status": "Cancelled"
+  },
+  {
+    "order_id": "ORD-1020",
+    "customer": "Ishita Roy",
+    "product": "Machine Learning Guide",
+    "category": "books",
+    "status": "delivered",
+    "shipping_status": "Delivered"
+  }
+]

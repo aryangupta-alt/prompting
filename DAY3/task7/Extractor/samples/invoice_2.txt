@@ -1,0 +1,20 @@
+Invoice Number: INV-1002
+
+Invoice Date: 2025-05-05
+
+Supplier Name: Tech Supplies Ltd
+
+Customer Name: Bright Solutions Pvt Ltd
+
+Billing Address:
+45 Park Street
+Pune
+411001
+
+Items:
+Monitor | Qty 2 | Unit Price 8000 | Total 16000
+HDMI Cable | Qty 4 | Unit Price 500 | Total 2000
+
+Total Amount: 18000
+
+Status: UNPAID
