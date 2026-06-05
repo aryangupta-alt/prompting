@@ -31,19 +31,34 @@ for i in range(1, 21):
             text
         )
 
-        contact = result[0]
-        retries = result[1]
-        valid = result[2]
+        retries = result[
+            "retries"
+        ]
+
+        valid = result[
+            "final_valid"
+        ]
+
+        errors_seen = (
+            "; ".join(
+                result["errors_seen"]
+            )
+            if result["errors_seen"]
+            else "None"
+        )
 
         rows.append(
             [
                 f"input_{i}",
+
                 retries == 0,
+
                 valid,
+
                 retries,
-                "Validation Error"
-                if retries > 0
-                else "None",
+
+                errors_seen,
+
                 0
             ]
         )
@@ -61,10 +76,15 @@ for i in range(1, 21):
         rows.append(
             [
                 f"input_{i}",
+
                 False,
+
                 False,
+
                 3,
+
                 str(e),
+
                 0
             ]
         )
@@ -96,7 +116,9 @@ with open(
         ]
     )
 
-    writer.writerows(rows)
+    writer.writerows(
+        rows
+    )
 
 print(
     "\nresults.csv generated successfully"

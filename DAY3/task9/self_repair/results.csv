@@ -1,21 +1,21 @@
 input_id,first_try_valid,final_valid,num_retries,errors_seen,total_cost
-input_1,True,True,0,None,0.0001
-input_2,False,True,1,Invalid email,0.0002
-input_3,False,True,1,Missing pincode,0.0002
-input_4,True,True,0,None,0.0001
-input_5,False,True,1,Invalid phone,0.0002
-input_6,False,True,1,Missing pincode,0.0002
-input_7,True,True,0,None,0.0001
-input_8,False,True,1,Invalid phone,0.0002
-input_9,True,True,0,None,0.0001
-input_10,False,True,1,Invalid email,0.0002
-input_11,True,True,0,None,0.0001
-input_12,False,True,1,Missing pincode,0.0002
-input_13,True,True,0,None,0.0001
-input_14,False,True,1,Invalid email,0.0002
-input_15,True,True,0,None,0.0001
-input_16,True,True,0,None,0.0001
-input_17,True,True,0,None,0.0001
-input_18,False,True,1,Missing pincode,0.0002
-input_19,False,True,1,Invalid email,0.0002
-input_20,True,True,0,None,0.0001
+input_1,True,True,0,None,0
+input_2,False,True,1,Invalid phone number,0
+input_3,True,True,0,None,0
+input_4,False,True,1,Invalid email address,0
+input_5,False,True,1,Phone number must contain 10 digits,0
+input_6,False,True,1,Missing pincode,0
+input_7,True,True,0,None,0
+input_8,False,True,1,Phone number contains non-digit character,0
+input_9,True,True,0,None,0
+input_10,False,True,1,Invalid email address,0
+input_11,True,True,0,None,0
+input_12,False,True,1,Missing pincode,0
+input_13,True,True,0,None,0
+input_14,False,True,1,Invalid email address,0
+input_15,True,True,0,None,0
+input_16,True,True,0,None,0
+input_17,True,True,0,None,0
+input_18,False,True,1,Missing pincode,0
+input_19,False,True,1,Invalid email address,0
+input_20,True,True,0,None,0

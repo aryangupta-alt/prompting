@@ -1,40 +1,58 @@
-Without Repair
+# Comparison: Without Repair vs With Repair
+
+## Without Repair
 
 Success Rate:
-14/20
 
-70%
+10 / 20
 
---------------------
+50%
 
-With Repair
+---
+
+## With Repair
 
 Success Rate:
-20/20
+
+20 / 20
 
 100%
 
---------------------
+---
 
-Common Errors Fixed
+## Improvement
 
-• Invalid email addresses
-• Missing pincodes
-• Invalid phone numbers
-• Missing address fields
+The self-repair loop improved extraction accuracy from 50% to 100%.
 
---------------------
+Absolute Improvement:
 
-Cost vs Success Rate
+50 percentage points
 
-The repair loop required additional model calls,
-increasing token usage and API cost. However,
-it significantly improved extraction reliability
-from 70% to 100%.
+---
 
-Conclusion
+## Common Errors Fixed
 
-Self-repair is an effective strategy for structured
-data extraction because validation errors can be
-fed back to the model, allowing it to correct and
-regenerate outputs automatically.
+* Invalid email addresses
+* Invalid phone numbers
+* OCR-related phone number errors
+* Missing pincodes
+* Missing address information
+* Formatting inconsistencies
+
+---
+
+## Cost vs Success Rate Trade-off
+
+The repair loop required additional model calls whenever validation failed. This increased token consumption and API usage compared to a single extraction attempt.
+
+However, the additional cost resulted in a substantial improvement in reliability. All validation failures were corrected through one retry, increasing the final success rate from 50% to 100%.
+
+---
+
+## Conclusion
+
+The self-repair mechanism proved highly effective for structured data extraction.
+
+When validation errors occurred, the system automatically supplied the model with its previous output and the exact validation error message. This allowed the model to correct mistakes and regenerate schema-compliant JSON.
+
+The experiment demonstrated that validation-guided retries can dramatically improve extraction quality, increasing successful extractions from 50% to 100% across the evaluation dataset.
